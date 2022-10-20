@@ -1,0 +1,7 @@
+Este programa fue creado por los Alumnos del grupo 06 de soporte a la gestion de datos visual de la UTN-FRRO del 2022 con fines educativos.
+
+Para la utilizacion de este codigo es necesario contar con las siguientes librerias:
+    opencv-python
+    numpy
+    Time
+    opencv-contrib-python
